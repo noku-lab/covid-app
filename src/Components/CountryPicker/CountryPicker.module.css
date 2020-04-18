@@ -1,5 +1,5 @@
 .formControl{
-    width: 30%;
+    width: 20%;
     margin-bottom: 30px !important;
     font-weight: 500 !important;
 }
@@ -11,4 +11,12 @@
 .heading{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media(max-width: 770px){
+    .formControl{
+        width: 80%;
+        margin-bottom: 30px !important;
+        font-weight: 500 !important;
+    }
 }
