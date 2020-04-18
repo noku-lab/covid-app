@@ -1,0 +1,14 @@
+.formControl{
+    width: 20%;
+    margin-bottom: 30px !important;
+    font-weight: 500 !important;
+}
+
+.name{
+    font-size: 20px !important;
+}
+
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+}
